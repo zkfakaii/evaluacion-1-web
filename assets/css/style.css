@@ -1,0 +1,62 @@
+body{background-color: rgb(88, 136, 120);}
+
+#img1{
+    height: 500px;
+    width: 500px;;
+    border-radius: 50%;
+}
+
+#img2{
+    height: 500px;
+    width: 500px;;
+    border-radius: 50%;
+}
+
+#img3{
+    height: 500px;
+    width: 500px;;
+    border-radius: 50%;
+}
+
+.pajaro{
+  margin: 50px;
+    border-color: rgb(160, 211, 211);
+    border-width: 0.60em;
+    border-style:double
+}
+
+.imagenes{
+    text-align: center;
+}
+footer{
+    color: rgb(156, 219, 219);
+    border-style: groove;
+    border-color: rgb(134, 185, 166);
+    text-align: center;
+    background-color: rgb(49, 80, 43);
+  
+}
+#h1{
+  
+    background-color: rgb(49, 80, 43);
+    border-style: groove;
+    border-color: rgb(134, 185, 166);
+    color: rgb(160, 211, 211);
+    margin: 5em;
+}
+#h2{
+    font-size: 5em;
+    text-align: center;
+    color: rgb(172, 238, 238);
+}
+#h5{
+    font-size: 2em;
+    text-align: center;
+    color: rgb(172, 238, 238);
+}
+.contador {
+    display: block;
+    margin-top: 0.5rem;
+    font-weight: bold;
+    color: white;
+}
